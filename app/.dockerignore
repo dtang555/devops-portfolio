@@ -1,0 +1,7 @@
+tests/
+*.db
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+requirements-dev.txt
