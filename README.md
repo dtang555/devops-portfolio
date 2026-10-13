@@ -28,3 +28,5 @@ ruff check . && ruff format --check .
 - [ ] Week 2: Terraform (ACR, AKS, Key Vault, Postgres), OIDC push to ACR, Checkov
 - [ ] Week 3: Helm chart, automated deploy + rollback, secrets from Key Vault
 - [ ] Week 4: Prometheus/Grafana + SLO alert, failure-injection postmortems, AI log summarizer
+
+CI pipeline: lint, audit, tests, build, Trivy scan.
